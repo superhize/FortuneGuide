@@ -188,44 +188,57 @@
 >
  ## Per Crop Fortune
 
- > ### <img alt="Personal Best" src="https://wiki.hypixel.net/images/5/54/Minecraft_items_name_tag.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Personal Best](https://wiki.hypixel.net/Anita#Personal_Bests) `Max 100FF`
  > - #### <img alt="Wheat" src="https://wiki.hypixel.net/images/4/4e/Minecraft_items_wheat.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Wheat](https://wiki.hypixel.net/Wheat)
 > 
->   - 0.1FF per 1,000 →  1,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 1,000 →  1,000,000 Crops Needed
 >
 > - #### <img alt="Carrot" src="https://wiki.hypixel.net/images/7/7b/Minecraft_items_carrot.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Carrot](https://wiki.hypixel.net/Carrot)
 > 
->   - 0.1FF per 3,000 →  3,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 3,000 →  3,000,000 Crops Needed
+>  - Exportable Carrots `12FF`
+>    - 3,000x Exportable Carrots
 >
 > - #### <img alt="Potato" src="https://wiki.hypixel.net/images/d/d1/Minecraft_items_potato.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Potato](https://wiki.hypixel.net/Potato)
 > 
+>  - Personal Best `Max 100FF`
 >   - 0.1FF per 3,000 →  3,000,000 Crops Needed
 >
 > - #### <img alt="Pumpkin" src="https://wiki.hypixel.net/images/f/f4/Minecraft_items_carved_pumpkin.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Pumpkin](https://wiki.hypixel.net/Pumpkin)
 > 
->   - 0.1FF per 1,000 →  1,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 1,000 →  1,000,000 Crops Needed
+>  - Expired Pumpkin `12FF`
+>    - 3,000x Expired Pumpkin
 >
 > - #### <img alt="Melon" src="https://wiki.hypixel.net/images/c/c0/Minecraft_items_melon_slice.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Melon](https://wiki.hypixel.net/Melon)
 > 
->   - 0.1FF per 5,000 →  5,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 5,000 →  5,000,000 Crops Needed
 >
 > - #### <img alt="Mushroom" src="https://wiki.hypixel.net/images/2/2a/Minecraft_items_red_mushroom.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft_items_red_mushroom.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007"  class=" ls-is-cached lazyloaded"> [Mushroom](https://wiki.hypixel.net/Mushroom) 
 > 
->   - 0.1FF per 1,000 →  1,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 1,000 →  1,000,000 Crops Needed
 >
 > - #### <img alt="Cactus" src="https://wiki.hypixel.net/images/6/60/Minecraft_items_cactus.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Cactus](https://wiki.hypixel.net/Wheat)
 > 
->   - 0.1FF per 2,000 →  2,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 2,000 →  2,000,000 Crops Needed
 >
 > - #### <img alt="Sugar Cane" src="https://wiki.hypixel.net/images/f/fb/Minecraft_items_sugar_cane.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Sugar Cane](https://wiki.hypixel.net/Wheat)
 > 
->   - 0.1FF per 2,000 →  2,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 2,000 →  2,000,000 Crops Needed
 >
 > - #### <img alt="Nether Wart" src="https://wiki.hypixel.net/images/f/f3/Minecraft_items_nether_wart.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Nether Wart](https://wiki.hypixel.net/Wheat)
 > 
->   - 0.1FF per 3,000 →  3,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 3,000 →  3,000,000 Crops Needed
 >
 > - #### <img alt="Cocoa Beans" src="https://wiki.hypixel.net/images/4/4e/Minecraft_items_wheat.png" decoding="async" loading="lazy" width="21" height="21" data-image-name="Minecraft Items Name Tag.png" data-image-key="Minecraft_items_name_tag.png" data-src="https://static.wikia.nocookie.net/hypixel-skyblock/images/9/97/Golden_Axe.png/revision/latest/scale-to-width-down/32?cb=20210615225007" class=" ls-is-cached lazyloaded"> [Cocoa Beans](https://wiki.hypixel.net/Wheat)
 > 
->   - 0.1FF per 3,000 →  3,000,000 Crops Needed
+>  - Personal Best `Max 100FF`
+>    - 0.1FF per 3,000 →  3,000,000 Crops Needed
 >
